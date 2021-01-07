@@ -16,7 +16,7 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 ## My skills 📜
 
-
+- JavaScript
 - HTML, CSS
 	([Free Code Camp Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
 - WordPress
@@ -24,4 +24,11 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 - PHP
 - MySQL
 
+
+## What I'm currently learning 📚
+
+- JavaScript
+- Bootstrap
+- Viu.JS
+- PHP
 </details>
