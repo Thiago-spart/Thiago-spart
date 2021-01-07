@@ -10,7 +10,8 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-
-
+	<summary>
+		More stuff about me
+	</summary>
 
 </details>
