@@ -32,5 +32,4 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 - Viu.JS
 - PHP
 
-
 </details>
