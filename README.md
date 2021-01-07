@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a freelancer from Brazil, that loves make projects. 
+I'm a freelancer from Brazil, that loves make front-end projects. 
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple)
 
