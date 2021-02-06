@@ -6,6 +6,10 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 ## 📈 Github Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago spart" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago spart" />
+
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +18,7 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 <p align="center">
   <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart&theme=midnight-purple#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart&theme=midnight-purple#version3" alt="Thiago spart's streak stats"/>
   </a>
 </p>
 <details>
