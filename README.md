@@ -34,7 +34,7 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 - JavaScript
 - Bootstrap
-- Viu.JS
+- Vue.JS
 - PHP
 
 </details>
