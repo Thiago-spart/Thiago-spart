@@ -9,6 +9,11 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart#version3"/>
+  </a>
+</p>
 <details>
 <summary>
 	More stuff about me
