@@ -11,7 +11,7 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 <p align="center">
   <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-spart&theme=midnight-purple#version3"/>
   </a>
 </p>
 <details>
