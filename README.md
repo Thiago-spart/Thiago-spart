@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a freelancer from Brazil, that loves to make front-end projects. 
+I'm a freelancer from Brazil, that loves to make front-end projects.
 
 ## Quick overview
 
@@ -10,7 +10,7 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago spart" />
 
-## My contribution streak 🔥 
+## My contribution streak 🔥
 
 <p align="center">
   <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
@@ -24,20 +24,18 @@ I'm a freelancer from Brazil, that loves to make front-end projects.
 
 ## My skills 📜
 
-- JavaScript
+- JavaScript ([Free Code Camp Certified](https://www.freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/javascript-algorithms-and-data-structures))
 - HTML, CSS
-	([Free Code Camp Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
+  ([Free Code Camp Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
 - WordPress
   ([Udemy Certified](http://ude.my/UC-9085ec6b-7c92-4779-9f86-b32f16c2a98f))
-- PHP
-- MySQL
-
 
 ## What I'm currently learning 📚
 
 - JavaScript
-- Bootstrap
-- Vue.JS
-- PHP
+- React.js
+- SASS
+- Typescript.js
+- Next.js
 
 </details>
