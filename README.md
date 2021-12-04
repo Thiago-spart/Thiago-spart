@@ -41,8 +41,8 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## My recent work :man_technologist:
 
-- ig.news [project source](https://github.com/Thiago-spart/ignews)
-- seazone-challenger [project source](https://github.com/Thiago-spart/seazone-challenger)
-- dt.money ([project source](https://github.com/Thiago-spart/dtmoney))
+- [Tractian Challenger](https://github.com/Thiago-spart/tractian-challenger)
+- [Seazone Challenger](https://github.com/Thiago-spart/seazone-challenger)
+- [dt.money](https://github.com/Thiago-spart/dtmoney)
 
 </details>
