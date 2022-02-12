@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-Hi there, I'm a front-end developer from Brazil, and i really love doing my projects with react and typescript :sparkling_heart:.
+Hi there, I'm a front-end developer from Brazil, and I really love using react and typescript to make beautiful interfaces :sparkling_heart:.
 
 ## Quick overview
 
@@ -24,23 +24,20 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## My skills 📜
 
-- React
-- JavaScript ([Free Code Camp Certified](https://www.freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/javascript-algorithms-and-data-structures))
-- HTML, CSS
-  ([Free Code Camp Certified](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design))
-- WordPress
-  ([Udemy Certified](http://ude.my/UC-9085ec6b-7c92-4779-9f86-b32f16c2a98f))
+- [React](https://app.rocketseat.com.br)
+- [JavaScript](https://www.freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/javascript-algorithms-and-data-structures)
+- [HTML, CSS](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design)
 
 ## What I'm currently learning 📚
 
-- JavaScript
-- React.js
-- Styled components
-- Typescript.js
-- Next.js
+- [ECMA7 and logic](https://www.codewars.com/users/Thiago-spart)
+- [SEO and accessibility](https://www.youtube.com/c/GoogleChromeDevelopers)
+- [Typescript](https://www.typescriptlang.org/)
+- [Next](https://nextjs.org/)
 
 ## My recent work :man_technologist:
 
+- [Captis LP](https://captis.app)
 - [Tractian Challenger](https://github.com/Thiago-spart/tractian-challenger)
 - [Seazone Challenger](https://github.com/Thiago-spart/seazone-challenger)
 - [dt.money](https://github.com/Thiago-spart/dtmoney)
