@@ -1,6 +1,6 @@
-# Hi everyone :wave:
+# Hi everyone 👋
 
-Hi there, I'm a front-end developer from Brazil, and I really love using react and typescript to make beautiful interfaces :sparkling_heart:.
+Hi there, I'm a front-end developer from Brazil, and I build interfaces mainly with React and Typescript, also I love interfaces challengers ❤️
 
 ## Quick overview
 
@@ -24,22 +24,21 @@ Hi there, I'm a front-end developer from Brazil, and I really love using react a
 
 ## My skills 📜
 
-- [React](https://app.rocketseat.com.br)
-- [JavaScript](https://www.freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/javascript-algorithms-and-data-structures)
-- [HTML, CSS](https://freecodecamp.org/certification/fcc8d0fc1b4-246c-4234-a563-b4f0e1c3e5d4/responsive-web-design)
+- [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## What I'm currently learning 📚
 
-- [ECMA7 and logic](https://www.codewars.com/users/Thiago-spart)
+- [Typescript](https://type-level-typescript.com)
+- [React Native](https://reactnative.dev)
 - [SEO and accessibility](https://www.youtube.com/c/GoogleChromeDevelopers)
-- [Typescript](https://www.typescriptlang.org/)
 - [Next](https://nextjs.org/)
 
-## My recent work :man_technologist:
+## My recent work 👨‍💻
 
-- [Captis LP](https://captis.app)
-- [Tractian Challenger](https://github.com/Thiago-spart/tractian-challenger)
-- [Seazone Challenger](https://github.com/Thiago-spart/seazone-challenger)
+- [Captis landingPage](https://captis.app)
+- [Techmmunity landingPage](https://techmmunity.github.io)
+- [Dashboard CRUD](https://github.com/Thiago-spart/tractian-dashboard-challenger)
 - [dt.money](https://github.com/Thiago-spart/dtmoney)
 
 </details>
